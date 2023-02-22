@@ -1,4 +1,4 @@
-# idiotButton
+# idiotButton Created by Open AI Chat GPT
 
 this is a python script I created using Open Ai chat gpt.
 i spent a few hours chatting with chat gpt before it spit out the script...
